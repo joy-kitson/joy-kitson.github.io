@@ -17,10 +17,10 @@ to support scientific simulations. In particular, my current work focuses
 on leveraging HPC systems to improve our understanding of how infectious
 diseases spread by studing ways to balance the flexibility and granularity of
 agent-based modeling techniques with their computational costs. I have also
-studied the efficacy of a range of parallel frameworks for providing
+studied the efficacy of a range of parallel frameworks in providing
 *performance portability*, efficient execution on a range of HPC systems,
 for scientific applcations. For more details, feel free to check out my
-[CV](https://joy-kitson.github.io/assets/cv.pdf) or
+[CV](/assets/img/cv.pdf) or
 [Google Scholar profile](https://scholar.google.com/citations?user=6b_rN9kAAAAJ).
 
 Prior to my time at UMD, I studied at the

@@ -26,6 +26,7 @@ url: "https://joy-kitson.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  jkitson
 show_downloads: false
+logo: "/assets/img/headshot.jpg"
 
 # Build settings
 theme: jekyll-theme-minimal
