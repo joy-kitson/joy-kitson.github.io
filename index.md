@@ -9,7 +9,7 @@ My name is Joy Kitson and I'm currently pursuing a PhD in Computer Science
 at the [University of Maryland, College Park](https://www.cs.umd.edu/]) as
 a part of the [Parallel Software and Systems Group](https://pssg.cs.umd.edu/).
 I am also honored to have been selected as a Department of Energy
-[Computational Science Graduate Fellow](https://www.krellinst.org/csgf/)
+[Computational Science Graduate Fellow](https://www.krellinst.org/csgf/fellows/profile?n=kitson2021)
 in 2021.
 
 I study how to best harness high perfromance computing (HPC) resources
