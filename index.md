@@ -12,14 +12,14 @@ I am also honored to have been selected as a Department of Energy
 [Computational Science Graduate Fellow](https://www.krellinst.org/csgf/fellows/profile?n=kitson2021)
 in 2021.
 
-I study how to best harness high perfromance computing (HPC) resources
+I study how to best harness high performance computing (HPC) resources
 to support scientific simulations. In particular, my current work focuses
 on leveraging HPC systems to improve our understanding of how infectious
-diseases spread by studing ways to balance the flexibility and granularity of
+diseases spread by studying ways to balance the flexibility and granularity of
 agent-based modeling techniques with their computational costs. I have also
 studied the efficacy of a range of parallel frameworks in providing
 *performance portability*, efficient execution on a range of HPC systems,
-for scientific applcations. For more details, feel free to check out my
+for scientific applications. For more details, feel free to check out my
 [CV](/assets/img/cv.pdf) or
 [Google Scholar profile](https://scholar.google.com/citations?user=6b_rN9kAAAAJ).
 
@@ -28,7 +28,7 @@ Prior to my time at UMD, I studied at the
 Computer Science and Applied Mathematics in May 2020. While at UD, I got my
 start in research with the
 [Global Computing Lab](https://globalcomputing.group/about.html)
--- now at the University of Tennesse -- and the
+-- now at the University of Tennessee -- and the
 [Vertically Integrated Projects](https://vip.udel.edu/) program.
 
 In my free time, I enjoy swing dancing (especially Lindy Hop!), reading
